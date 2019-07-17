@@ -1,6 +1,6 @@
 # House-Sales-Prediction-Project
 
-The dataset contains information about the real estate prices and house features for King County. It includes homes sold between May 2014 and May 2015.
+The dataset contains information about the real estate prices and house features for King County. It includes houses sold between May 2014 and May 2015.
 
 The dataset is available here - https://www.kaggle.com/harlfoxem/housesalesprediction
 
